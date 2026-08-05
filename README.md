@@ -17,11 +17,11 @@ This repository is under active development. Many features are TODO.
 ### 📝 Complete TODO List
 
 - [ ] **cobalt/middleware/auth.py:3** - validate JWT signature and expiry
+- [ ] **cobalt/middleware/auth.py:4** - support API-key fallback auth
 - [ ] **cobalt/routing/router.py:3** - support path parameter type converters
 - [ ] **cobalt/routing/router.py:4** - cache compiled route patterns
 - [ ] **cobalt/routing/router.py:8** - return 405 for method mismatch vs 404
 - [ ] **cobalt/serialize/json.py:2** - handle dataclasses and enums
-- [ ] **cobalt/serialize/json.py:10** - add msgpack serialization backend
 
 ## 🤝 Contributing
 
